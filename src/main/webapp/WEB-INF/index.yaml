@@ -1,0 +1,13 @@
+indexes:
+
+- kind: Comment
+  properties:
+  - name: imgPath
+  - name: timestamp
+    direction: desc
+
+- kind: Comment
+  properties:
+  - name: imgPath
+  - name: timestamp
+    direction: asc
