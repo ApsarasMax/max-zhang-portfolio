@@ -25,3 +25,8 @@ body {
   display: inline-block;
   background-color: rgba(0, 125, 175, 0.4);
 }
+
+.social-media{
+    width: 3rem;
+    margin: 1rem;
+}
